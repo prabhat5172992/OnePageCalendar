@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+/* Calender CSS */
+.table_days {
+  border: 1px solid #ccc;
+  background-color: #5ad5f9c7;
+  width: 30%;
+  float: left;
+  margin-bottom: 50px;
+}
+.leftMargin {
+  margin-left: 20%;
+}
+.rightMargin {
+  margin-right: 20%;
+}
+.days_header {
+  text-align: center;
+  background: orangered;
+  color: white;
+  height: 78px;
+}
+.days_cell {
+  height: 30px;
+  width: 35px;
+  border: 1px solid #554f4f;
+}
+.addBackg {
+  background-color: #fff;
+  color: #000;
+}
+.colorRed {
+  color: red;
+}
+.my_headerSpan {
+  display: block;
+  margin: 5px auto;
+}
+.lgFontSize {
+  font-size: 36px;
+}
+/* Calender css ends */
